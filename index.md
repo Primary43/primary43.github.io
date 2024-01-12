@@ -12,8 +12,8 @@
 <img src="https://github.com/Primary43/Disbot-Scrape-Python-wrangling-MongoDB-database/blob/main/Dashboardarc.png?raw=true"/>
 
 ---
-[Spatial-Temporal Data Predictive Modelling](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spatial-Temporal Data Predictive Modelling](/TripDuration-Prediction)
+<img src="https://github.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/asset/gif.gif?raw=true"/>
 
 ---
 
