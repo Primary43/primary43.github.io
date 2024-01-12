@@ -14,5 +14,7 @@
 ![Bot Picture](https://raw.githubusercontent.com/Primary43/Disbot-Scrape-Python-wrangling-MongoDB-database/main/Botpic.png)
 
 ## Final DisBot Dashboard on MongoDB
+[![MongoDB](https://img.shields.io/badge/MongoDB-View_on_MongoDB-green?logo=MongoDB)](https://charts.mongodb.com/charts-disbot-fgnht/public/dashboards/60acf749-713d-4858-8c65-3980e916cbfa)
 
 [![MongoDB Dashboard](https://raw.githubusercontent.com/Primary43/Disbot-Scrape-Python-wrangling-MongoDB-database/main/DashboardBot.png)](https://charts.mongodb.com/charts-disbot-fgnht/public/dashboards/60acf749-713d-4858-8c65-3980e916cbfa)
+
