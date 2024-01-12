@@ -9,7 +9,7 @@
 
 ---
 [Data Collector Bot, Analysis and Visualization](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/Primary43/Disbot-Scrape-Python-wrangling-MongoDB-database/blob/main/Dashboardarc.png?raw=true"/>
 
 ---
 [Spatial-Temporal Data Predictive Modelling](http://example.com/)
