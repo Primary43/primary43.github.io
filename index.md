@@ -2,28 +2,32 @@
 
 ---
 
-### Category Name 1 
+### End-to-End Data Project
 
-[Project 1 Title](/sample_page)
+[Customer Segmentation Prediction Modelling Web Application](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Data Collector Bot, Analysis and Visualization](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Spatial-Temporal Data Predictive Modelling](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Analysis and Visualisation
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Tableau dashboard for Australia’s Early Childhood Education](http://example.com/)
+- [CustomerSegmentation Dashboard](http://example.com/)
+
+
+---
+
+### Big Data Analytics
+
+
 
 ---
 
