@@ -1,11 +1,12 @@
 title: Prim Hansakul # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A motivated data scientist graduate, with experience in a variety of industries. Having a background in business data analysis, BIM architecture, and GIS technology, I have the desire to incorporate AI-driven solutions into the urban informatics field.
   <br><br>
-  Second description 
+  In the era of AI automation, my goal extends beyond research, data processing, or modeling. I am striving to acquire a comprehensive skill set as a full-stack data scientist and to incorporate data engineering workflows into my expertise.
+  I am proficient in Python and a variety of frameworks, big data management, and cloud-provided platforms. Besides my ability to translate complex data into business insight, I am proficient in Agile methodologies and problem-solving skills. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/prim-hansakul">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
