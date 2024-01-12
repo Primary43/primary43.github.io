@@ -3,7 +3,7 @@
 To understand customer value among a group of new customers lacking transaction history, different supervised classification ML and DL models were developed and assessed.
 
 ![KPMG](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/kpmg.png)
-[GitHub](https://github.com/Primary43/kpmg-s-virtual-internship-customer-prediction)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Primary43/kpmg-s-virtual-internship-customer-prediction)
 
 ## Final WebApp on Heroku
 [Visit the final WebApp on Heroku](https://app-db1-5d66c8de929e.herokuapp.com/)
