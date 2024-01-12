@@ -4,7 +4,7 @@
 
 ### End-to-End Data Project
 
-[Customer Segmentation Prediction Modelling Web Application](/sample_page)
+[Customer Segmentation Prediction Modelling Web Application](/Customer-Segmentation-Prediction)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
