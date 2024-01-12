@@ -2,6 +2,9 @@
 
 This objective is to apply statistical analysis and predictive modeling techniques by integrating location cluster features into a linear regression model aimed at predicting taxi trip durations.
 
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster)
+
 ### Task 1: Exploratory Data Analysis (EDA) and Variance Analysis
 - 1.1 Evaluation of temporal patterns with distance and duration.
 - 1.2 Exploration of data specific to vendors and flags.
