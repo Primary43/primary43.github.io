@@ -5,7 +5,7 @@
 ### End-to-End Data Project
 
 [Customer Segmentation Prediction Modelling Web Application](/Customer-Segmentation-Prediction)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/kpmgg.png?raw=true"/>
 
 ---
 [Data Collector Bot, Analysis and Visualization](/pdf/sample_presentation.pdf)
