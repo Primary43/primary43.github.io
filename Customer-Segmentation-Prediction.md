@@ -33,9 +33,14 @@ Presented on PowerBI, providing interactive visualizations and business intellig
 
 ![PowerBI Dashboard](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/demo1.png)
 
+[![PowerBI](https://img.shields.io/badge/PowerBI-View_on_PowerBI-yellow?logo=PowerBI)](https://app-db1-5d66c8de929e.herokuapp.com/dashboard)
+
+
+
 ### 3. Web application and model prediction
 
 Deployed using Dash/Flask on Heroku for the capability of real-time prediction for both new input and existing customers based on demographic data.
-[Visit the model prediction on Heroku](https://app-db1-5d66c8de929e.herokuapp.com/)
+[Visit the model prediction on Heroku](https://app-predict-ed883b6bdb3f.herokuapp.com/)
+
 
 ![Prediction WebApp](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/prediction.png)
