@@ -8,7 +8,7 @@
 <img src="images/kpmgg.png?raw=true"/>
 
 ---
-[Data Collector Bot, Analysis and Visualization](/Disbot.md)
+[Data Collector Bot, Analysis and Visualization](/Disbot)
 <img src="https://github.com/Primary43/Disbot-Scrape-Python-wrangling-MongoDB-database/blob/main/Dashboardarc.png?raw=true"/>
 
 ---
