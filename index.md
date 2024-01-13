@@ -19,10 +19,11 @@
 
 ### Data Analysis and Visualisation
 
-- CustomerSegmentation Dashboard
+[CustomerSegmentation Dashboard](https://github.com/Primary43/CustomerSegmentation-Plotly-Dash)
 <img src="https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dashGif.gif?raw=true"/>
-- [Tableau dashboard for Australia’s Early Childhood Education](https://public.tableau.com/app/profile/primhansakul/viz/103141588/Story1)
 
+---
+[Tableau dashboard for Australia’s Early Childhood Education](https://public.tableau.com/app/profile/primhansakul/viz/103141588/Story1)
 
 ---
 
