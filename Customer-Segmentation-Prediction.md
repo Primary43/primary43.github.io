@@ -1,33 +1,49 @@
 # Customer-Segmentation-Prediction @ KPMG Virtual Internship
 
 To understand customer value among a group of new customers lacking transaction history, different supervised classification ML and DL models were developed and assessed.
+Business Use Case:
+- The predicted segmentation can lead to more personalized marketing strategies, and improved customer engagement.
+- Targeted promotions and incentives that resonate with each group's behavior and preferences can be used for potentially increasing customer lifetime value and loyalty.
 
-![KPMG](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/kpmg.png)
-
-## Final WebApp on Heroku
-[Visit the final WebApp on Heroku](https://app-db1-5d66c8de929e.herokuapp.com/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Primary43/kpmg-s-virtual-internship-customer-prediction)
+![KPMG](https://github.com/Primary43/primary43.github.io/blob/master/images/kpmgg.png)
+![Intro](https://github.com/Primary43/primary43.github.io/blob/master/images/1intro.png)
 
 
-### 1. Model Development
-[View the Model Development Slide](https://github.com/Primary43/kpmg-s-virtual-internship/blob/main/ModelDevelopment/Module_2_kpmg_slide.pdf)
+## Final WebApp on Heroku [Visit the final WebApp on Heroku](https://app-db1-5d66c8de929e.herokuapp.com/) | [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Primary43/kpmg-s-virtual-internship-customer-prediction)
 
-- 1.1 Initially, an engineered target was obtained—a segmentation derived from the cluster of RFM (Recency, Frequency, Monetary value) model analyzing the behavior of existing customers with transaction records.
+### 1. Data Quality Assessment and Preprocessing [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Primary43/kpmg-s-virtual-internship-customer-prediction/blob/main/ModelDevelopment/Notebooks/KPMG_Task1_DataAssessment.ipynb)
+
+### 2. Exploratory Data Analysis
+![EDA](https://github.com/Primary43/primary43.github.io/blob/master/images/2eda.png)
+![EDA](https://github.com/Primary43/primary43.github.io/blob/master/images/2-2eda.png)
+![EDA](https://github.com/Primary43/primary43.github.io/blob/master/images/2-3eda.png)
+![EDA](https://github.com/Primary43/primary43.github.io/blob/master/images/2-4eda.png)
+
+
+
+### 3. Model Development
+
+- 3.1 Initially, an engineered target was obtained—a segmentation derived from the cluster of RFM (Recency, Frequency, Monetary value) model analyzing the behavior of existing customers with transaction records.
   
   ![RFM Cluster](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/cluster.png)
+  ![RFM Cluster](https://github.com/Primary43/primary43.github.io/blob/master/images/3cluster.png)
+  The result reveals low correlations between RFM clusters and other features, suggesting non-linear relationships. Facing challenges in identifying the underlying characteristics of the target RFM cluster, we implemented supervised learning algorithms to discern patterns and classify the target clusters.
 
-- 1.2 Among different supervised classification ML and DL models, Two-Step Deep learning Classification Approach has proven to be more effective than the multi-classification approach, which has encountered challenges in accurately predicting each class in this given problem, compared to the model baseline (multi-classification deep learning model), Decision Tree, KNeighborsClassifier, EnsembleVoting model.
-
+- 3.2 Among different supervised classification ML and DL models, Two-Step Deep learning Classification Approach has proven to be more effective than the multi-classification approach, which has encountered challenges in accurately predicting each class in this given problem, compared to the model baseline (multi-classification deep learning model), Decision Tree, KNeighborsClassifier, EnsembleVoting model.
+  ![model](https://github.com/Primary43/primary43.github.io/blob/master/images/4-1model.png)
+  ![model](https://github.com/Primary43/primary43.github.io/blob/master/images/4-2model.png)
+  ![model](https://github.com/Primary43/primary43.github.io/blob/master/images/4-3model.png)
   ![Two-Step Classification](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/two-step.png)
 
-- 1.3 Explainable AI (XAI) was applied to provide a clear view of each feature's influence on a prediction, indicating whether it raises or lowers the likelihood of a particular outcome. This includes the utilization of ExplainableDashboard and Dalex libraries.
+- 3.3 Explainable AI (XAI) was applied to provide a clear view of each feature's influence on a prediction, indicating whether it raises or lowers the likelihood of a particular outcome. This includes the utilization of ExplainableDashboard and Dalex libraries.
 
   ![XAI Explainer](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/explainer.png)
   
   ![XAI Arena](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/arena.png)
-
-### 2. Dashboard and Report
+  
+- 3.4 Model Prediction
+  ![model](https://github.com/Primary43/primary43.github.io/blob/master/images/5model.png)
+### 4. Dashboard and Report
 
 Presented on PowerBI, providing interactive visualizations and business intelligence capabilities.
 
@@ -37,7 +53,7 @@ Presented on PowerBI, providing interactive visualizations and business intellig
 
 
 
-### 3. Web application and model prediction
+### 5. Web application and model prediction
 
 Deployed using Dash/Flask on Heroku for the capability of real-time prediction for both new input and existing customers based on demographic data.
 [Visit the model prediction on Heroku](https://app-predict-ed883b6bdb3f.herokuapp.com/)
