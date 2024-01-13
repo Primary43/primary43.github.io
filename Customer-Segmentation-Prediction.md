@@ -34,7 +34,6 @@ Business Use Case:
   ![model](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/4-1model.png)
   ![model](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship-customer-prediction/main/asset/4-2model.png)
   ![model](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship-customer-prediction/main/asset/4-3model.png)
-  ![Two-Step Classification](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/two-step.png)
 
 - 3.3 Explainable AI (XAI) was applied to provide a clear view of each feature's influence on a prediction, indicating whether it raises or lowers the likelihood of a particular outcome. This includes the utilization of ExplainableDashboard and Dalex libraries.
 
