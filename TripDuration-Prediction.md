@@ -5,7 +5,8 @@ This objective is to apply statistical analysis and predictive modeling techniqu
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster)
 
-### Task 1: Exploratory Data Analysis (EDA) and Variance Analysis
+### Task 1: Exploratory Data Analysis (EDA) and Variance Analysis [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/RegressionModel.ipynb)
+
 - 1.1 Evaluation of temporal patterns with distance and duration.
 - 1.2 Exploration of data specific to vendors and flags.
 - 1.3 Investigation of correlations among passengers.
@@ -23,7 +24,7 @@ A synthesis of the findings was performed, focusing on patterns of pickups and d
 
 ![Locational Cluster](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/locational%20cluster.png)
 
-### Task 3: A Comparative Analysis Across Four Distinct Regression Models
+### Task 3: A Comparative Analysis Across Four Distinct Regression Models [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/EDA.ipynb)
 - 3.1 A baseline model utilizing only the significant variables identified in the EDA.
 - 3.2 A comprehensive model incorporating all features.
 - 3.3 A model employing backward selection for feature optimization.
