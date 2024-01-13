@@ -9,7 +9,8 @@ Business Use Case:
 ![Intro](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship-customer-prediction/main/asset/1intro.png)
 
 
-## Final WebApp on Heroku [Visit the final WebApp on Heroku](https://app-db1-5d66c8de929e.herokuapp.com/) | [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Primary43/kpmg-s-virtual-internship-customer-prediction)
+## Final WebApp on Heroku 
+### [Visit the final WebApp on Heroku](https://app-db1-5d66c8de929e.herokuapp.com/) | [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Primary43/kpmg-s-virtual-internship-customer-prediction)
 
 ### 1. Data Quality Assessment and Preprocessing [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Primary43/kpmg-s-virtual-internship-customer-prediction/blob/main/ModelDevelopment/Notebooks/KPMG_Task1_DataAssessment.ipynb)
 
