@@ -49,7 +49,7 @@ Presented on PowerBI, providing interactive visualizations and business intellig
 
 ![PowerBI Dashboard](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/demo1.png)
 
-[![PowerBI](https://img.shields.io/badge/PowerBI-View_on_PowerBI-yellow?logo=PowerBI)](https://app-db1-5d66c8de929e.herokuapp.com/dashboard)
+[![PowerBI](https://img.shields.io/badge/PowerBI-View_on_PowerBI-yellow?logo=PowerBI)](https://app-db1-5d66c8de929e.herokuapp.com/dashboard)  or [Access Full Version with PowerBI Account](https://app.powerbi.com/reportEmbed?reportId=3fb4b625-ae44-48b1-8ee4-5027bdbd8522&autoAuth=true&ctid=fdc0b06e-bbdf-4925-bd0a-86d8493b8af1)
 
 
 
