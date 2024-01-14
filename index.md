@@ -20,16 +20,23 @@
 <img src="https://github.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/asset/gif.gif?raw=true"/>
 
 ### [Spatial-Temporal Data Predictive Modelling](/TripDuration-Prediction)
+![python](https://img.shields.io/badge/Python-blue) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-blue) ![Temporal Analysis](https://img.shields.io/badge/Temporal_Analysis-blue) ![Spatial Analysis](https://img.shields.io/badge/Spatial_Analysis-blue) ![GeoPandas](https://img.shields.io/badge/GeoPandas-blue) ![Folium](https://img.shields.io/badge/Folium-blue) ![LinearRegression](https://img.shields.io/badge/Linear_Regression-blue) ![Location-based Clustering Model](https://img.shields.io/badge/Location_based_Clustering_Model-blue) ![Backward Selection](https://img.shields.io/badge/Backward_Selection-blue)
 
 ---
 
 ### Data Analysis and Visualisation
 
-[CustomerSegmentation Dashboard](https://github.com/Primary43/CustomerSegmentation-Plotly-Dash)
 <img src="https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dashGif.gif?raw=true"/>
 
+### [CustomerSegmentation Dashboard](https://github.com/Primary43/CustomerSegmentation-Plotly-Dash)
+![python](https://img.shields.io/badge/Python-blue)  ![Principal Component Analysis](https://img.shields.io/badge/Principal_Component_Analysis-blue) ![K-Means](https://img.shields.io/badge/KMeans-blue) ![DBSCANS](https://img.shields.io/badge/DBSCANS-blue) ![DashPlotly](https://img.shields.io/badge/DashPlotly-blue) 
+
 ---
-[Tableau dashboard for Australia’s Early Childhood Education](https://public.tableau.com/app/profile/primhansakul/viz/103141588/Story1)
+### [Tableau dashboard for Australia’s Early Childhood Education](https://public.tableau.com/app/profile/primhansakul/viz/103141588/Story1)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-blue) ![Tableau](https://img.shields.io/badge/Tableau-blue)
+---
+
+### Cloud Platform
 
 ---
 
