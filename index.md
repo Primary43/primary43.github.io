@@ -5,10 +5,11 @@
 ### End-to-End Data Project
 
 <img src="images/kpmgg.png?raw=true"/>
+<img src="images/1intro.png?raw=true"/>
+
 
 ### [Customer Segmentation Prediction Modelling Web Application](/Customer-Segmentation-Prediction)
 ![python](https://img.shields.io/badge/Python-blue) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-blue) ![Target Engineering](https://img.shields.io/badge/Target_Engineering-blue) ![Clustering](https://img.shields.io/badge/Clustering-blue) ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-blue) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-blue) ![TensowFlow](https://img.shields.io/badge/TensowFlow-blue) ![KerasTuner](https://img.shields.io/badge/KerasTuner-blue) ![PowerBI](https://img.shields.io/badge/PowerBI-blue) ![Heroku](https://img.shields.io/badge/Heroku-blue) ![DashFlask](https://img.shields.io/badge/DashFlask-blue)  ![XAI](https://img.shields.io/badge/XAI-blue)
-
 
 ---
 <img src="https://github.com/Primary43/Disbot-Scrape-Python-wrangling-MongoDB-database/blob/main/Dashboardarc.png?raw=true"/>
