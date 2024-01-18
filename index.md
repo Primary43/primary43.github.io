@@ -22,7 +22,7 @@
 
 
 ---
-#### [DL Computer Vision Model with GIS Application](/TripDuration-Prediction)
+#### [DL Computer Vision Model with GIS Application](/DLmodel-onGIS)
 <img src="https://github.com/Primary43/DLmodel-onGIS/blob/main/images/model_transfer.png"/>
 <img src="https://github.com/Primary43/DLmodel-onGIS/blob/main/images/model_pretrained-post.png"/>
 
