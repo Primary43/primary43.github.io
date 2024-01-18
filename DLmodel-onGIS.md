@@ -9,6 +9,12 @@ Software Requirement:
 - Python API
 - NVIDIA (CUDA) GPU processor
 
+ A Deep Learning Modeling Process Using ArcGIS and Python APIs 
+ 1. Inference Pre-Trained Model
+ 2. Transfer Learning
+ 3. Model Evaluation
+ 4. Final Pipeline and Model Deployment
+---
 
 ![ML](path_to_image)
 *image_caption*
