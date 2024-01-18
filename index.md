@@ -23,8 +23,9 @@
 
 ---
 #### [DL Computer Vision Model with GIS Application](/DLmodel-onGIS)
-<img src="https://github.com/Primary43/DLmodel-onGIS/blob/main/images/model_transfer.png"/>
-<img src="https://github.com/Primary43/DLmodel-onGIS/blob/main/images/model_pretrained-post.png"/>
+![python](https://img.shields.io/badge/Python-blue) ![ArcGIS](https://img.shields.io/badge/ArcGIS-blue) ![ComputerVision](https://img.shields.io/badge/Computer_Vision-blue) ![DeepLearning](https://img.shields.io/badge/Deep_Learning-blue) ![TransferLearning](https://img.shields.io/badge/Transfer_Learning-blue) ![ObjectDetection](https://img.shields.io/badge/Object_Detection-blue) ![PixelSegmentation](https://img.shields.io/badge/Pixel_Segmentation-blue) ![PointCloud](https://img.shields.io/badge/Point_Cloud_Classification-blue)
+<img src="https://github.com/Primary43/DLmodel-onGIS/blob/main/images/model_transfer.png?raw=true"/>
+<img src="https://github.com/Primary43/DLmodel-onGIS/blob/main/images/model_pretrained-post.png?raw=true"/>
 
 ---
 
