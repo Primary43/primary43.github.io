@@ -10,13 +10,14 @@
 - NVIDIA (CUDA) GPU processor
 
 #### A Deep Learning Modeling Process Using ArcGIS and Python APIs 
- 1. Inference Pre-Trained Model
+ 1. Inference Pre-Trained Object Detection Model Vs Pixel-Segmentation Model
  2. Transfer Learning Object Detection Model
  3. Pixel-Segmentation Model with Automate Pipeline for Deployment
+ 4. Inference Pre-Trained Point Cloud DL Model
     
 ---
 
-## 1. Inference Pre-Trained Model
+## 1. Inference Pre-Trained Object Detection Model Vs Pixel-Segmentation Model
   Initially, we utilized Esri's pre-trained deep learning models to make an inference from the raw dataset and measure the prediction performance. The model specification and requirements include:
 ![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/model_pretrained.png)
 ![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/model_compare1.png)
@@ -40,5 +41,21 @@
 
 ## 3. Pixel-Segmentation Model with Automate Pipeline for Deployment
 ![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/model_pretrained-post.png)
+For the deployment phase, an automated pipeline processes each image raster set:
+#### 3.1 Preprocessing: Images are resampled to meet the specifications of the model.
+#### 3.2 Pixel Classification: A trained pixel-segmentation model classifies each pixel.
+#### 3.3 Post-Processing: The model's output pixels are refined by:
+- Removing noise and defining boundaries.
+- Converting the cleaned pixels into polygons based on layer specifications.
+- Standardizing the shape of building footprints.
 ![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/pipeline.png)
 ![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/model_pretrained-post2.png)
+
+
+---
+
+## 4. Inference Pre-Trained Point Cloud DL Model
+![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/model_lidar.png)
+
+The Lidar dataset consists of Level 2 classified images from ICSM, pre-categorized into classes such as terrain, near terrain, trees, buildings, and power lines. For further refinement, a pre-trained deep learning model for point clouds is employed to cleanse noisy data and transform the raw point cloud into 2D and 3D polygons.
+![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/result.png)
