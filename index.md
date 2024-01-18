@@ -22,6 +22,7 @@
 
 
 ---
+#### [DL Computer Vision Model with GIS Application](/TripDuration-Prediction)
 ---
 
 ### Data Analysis and Visualisation
