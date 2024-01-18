@@ -5,7 +5,7 @@ Objective:
 
   
 Software Requirement:
-- ArcGIS deep learning module (arcgis.learn)
+- ArcGIS deep learning module (Arcgis.learn)
 - Python API
 - NVIDIA (CUDA) GPU processor
 
@@ -16,9 +16,14 @@ Software Requirement:
  4. Final Pipeline and Model Deployment
 ---
 
-![ML](path_to_image)
+## 1. Inference Pre-Trained Model
+  Initially, we utilized Esri's pre-trained deep learning models to make an inference from the raw dataset and measure the prediction performance. The model specification and requirements include:
+![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/model_compare1.png)
+![ML](https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/model_pretrained3.png)
+
+
 *image_caption*
 
 
 
-#https://raw.githubusercontent.com/Primary43/DLmodel-onGIS/main/images/compare.png
+#
