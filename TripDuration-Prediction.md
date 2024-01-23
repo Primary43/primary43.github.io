@@ -60,8 +60,7 @@ The exploration of MLflow logs indicates that incorporating geospatial features 
 
 ![mlflow_table](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_table.png)
 ![mlflow](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow.png)
-|    Adjusted R2                                                   | MSE                                           |
-| ----------------------------------------------------- | --------------------------------------------- |
+
 | ![feature](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature.png) | ![feature2](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature2.png) |
 
 
