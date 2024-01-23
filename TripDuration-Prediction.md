@@ -26,8 +26,11 @@ A synthesis of the findings was performed, focusing on patterns of pickups and d
 
 ![Spatial Data Gif](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/gif.gif)
 
-### Task 3: Feature Transforming and Engineering
-- 3.1 Implemented a data transformation pipeline for both training and testing sets, encompassing data filtering, logarithmic transformations for normalization, feature scaling for uniformity, and encoding of categorical variables to prepare for machine learning analysis.
+### Task 3: Feature Transforming and Engineering Pipeline for Training and Testing Sets
+- 3.1 Implemented a data transformation pipeline: encompassing data filtering, logarithmic transformations for normalization, feature scaling for uniformity, and encoding of categorical variables to prepare for machine learning analysis.
+![before](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/before.png)
+![after](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/after.png)
+
 
 - 3.2 Integrated cluster-based geographical features into the training and testing sets. This entailed combining pickup and drop-off coordinates, applying scaling to normalize location data, and employing KMeans clustering. An automated hyperparameter tuning process determined the optimal number of clusters, resulting in 29 distinct geographical segments based on pickup and drop-off points.
 
@@ -38,18 +41,22 @@ A comprehensive assessment of linear regression assumptions was conducted, invol
 - Residual Plot: The observed pattern indicates heteroscedasticity, with non-constant variance in the residuals across the fitted value range.
 - Distribution of Error Terms: The residual histogram displayed a bell shape but was not symmetrical, peaking slightly left of the center.
 - Q-Q Plot: The central quantiles align with the theoretical normal line, but the tails exhibit deviations, suggesting that the residuals have heavier tails than a normal distribution.
-- Given these observations, where the prerequisites for optimal linear regression are not completely satisfied, the investigation will pivot toward robust regression techniques. These methods, which include LASSO, Ridge, and Elastic Net, are designed to enhance the model's robustness against outliers and other violations of regression assumptions.
 
-
-### Task 3: A Comparative Analysis Across Four Distinct Regression Models with a Different Set of Features [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/EDA.ipynb)
-- 3.1 A baseline model utilizing only the significant variables identified in the EDA.
-- 3.2 A comprehensive model incorporating all features.
-- 3.3 A model employing backward selection for feature optimization.
-- 3.4 A geospatial clustering model utilizing K-means to categorize latitude and longitude data into 29 unique location clusters.
-
+  Given these observations, where the prerequisites for optimal linear regression are not completely satisfied, the investigation will pivot toward robust regression techniques. These methods, which include LASSO, Ridge, and Elastic Net, are designed to enhance the model's robustness against outliers and other violations of regression assumptions.
 ![Assumption of Linearity](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/assumption%20of%20linearity.png)
 
+
+### Task 5: Model Training and Evaluation Tracking with MLFlow [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/EDA.ipynb)
+Four distinct robust regression algorithms include LASSO, Ridge, Elastic Net, and XGBoost. The K-fold cross-validation was employed to identify the optimal parameters for each model on three unique feature sets. 
+- A baseline model utilizing only the significant variables identified in the EDA.
+- A comprehensive model incorporating all features.
+- A geospatial clustering model utilizing K-means to categorize latitude and longitude data into 29 unique location clusters.
+
 ![Coefficient Plot](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/CoefPlot.png)
+
+Lastly, an MLflow tracking server was utilized to systematically record models, parameters, metrics, and artifacts, ensuring comprehensive logging of the experimentation process.
+![mlflow](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow.png)
+![mlflow_table](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_table.png)
 
 ### Results
 The regression model’s accuracy was assessed using Mean Absolute Error (MAE) and Mean Squared Error (MSE) to gauge the average prediction error, while the R-squared (R²) and Adjusted R-squared values were used to quantify the model's fit to the data. The integration of location cluster features into the baseline model resulted in a marked performance improvement, as demonstrated by reduced MAE and MSE values and an enhanced R² value of 0.8, signifying that 80% of the variability in the dependent variable can now be explained by the model's independent variables.
