@@ -13,7 +13,7 @@ As this dataset contains taxi trip duration records over six months, necessitati
 Data ingestion into Delta Lake from an AWS S3 bucket enhances reliability and performance, supporting complex ETL operations. The process involves cleansing and transforming the data, as well as feature extraction for analytical purposes. This includes extracting date components from datetime fields and deriving insights from geospatial data.
 
 
-### Task 2: Exploratory Data Analysis (EDA) and Variance Analysis [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/RegressionModel.ipynb)
+### Task 2: Exploratory Data Analysis (EDA) and Variance Analysis [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/02_EDA.ipynb)
 
 - 2.1 Evaluation of temporal patterns with distance and duration.
 - 2.2 Exploration of data specific to vendors and flags.
@@ -46,7 +46,7 @@ A comprehensive assessment of linear regression assumptions was conducted, invol
 ![Assumption of Linearity](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/assumption%20of%20linearity.png)
 
 
-### Task 5: Model Training and Evaluation Tracking with MLFlow [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/EDA.ipynb)
+### Task 5: Model Training and Evaluation Tracking with MLFlow [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/03_Model_MLFlow.ipynb)
 Four distinct robust regression algorithms include LASSO, Ridge, Elastic Net, and XGBoost. The K-fold cross-validation was employed to identify the optimal parameters for each model on three unique feature sets. 
 - A baseline model utilizing only the significant variables identified in the EDA.
 - A comprehensive model incorporating all features.
