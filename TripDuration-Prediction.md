@@ -1,4 +1,4 @@
-# TripDuration-Prediction-based-on-Locational-cluster
+# TripDuration-Prediction-based-on-Locational-cluster + MLFlow
 
 This objective is to apply statistical analysis and predictive modeling techniques by integrating location cluster features into a linear regression model aimed at predicting taxi trip durations.
 As this dataset contains taxi trip duration records over six months, necessitating scalable data handling and integration with additional data like weather or events in the next development phase. In this context:
