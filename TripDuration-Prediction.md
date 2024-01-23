@@ -55,14 +55,14 @@ Four distinct robust regression algorithms include LASSO, Ridge, Elastic Net, an
 ![Coefficient Plot](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/CoefPlot.png)
 
 Lastly, an MLflow tracking server was utilized to systematically record models, parameters, metrics, and artifacts, ensuring comprehensive logging of the experimentation process.
+### Results
+The exploration of MLflow logs indicates that incorporating geospatial features and clustering-based location data into the XGBoost model leads to a marked improvement over traditional linear models like Lasso, Ridge, and ElasticNet. This improvement is quantitatively evident in the enhanced R2, which has seen an increase from 0.65 to 0.78, and a decrease in the Mean Squared Error (MSE) from 0.05 to 0.03. These figures underscore the significant impact of geospatial features and the derived clustering information on the model's predictive accuracy, highlighting the importance of spatial context in the predictive modeling of taxi durations.
+
 ![mlflow_table](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_table.png)
 ![mlflow](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow.png)
-![feature](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature.png) ![feature2](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature2.png)
+|    Adjusted R2                                                   | MSE                                           |
+| ----------------------------------------------------- | --------------------------------------------- |
+| ![feature](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature.png) | ![feature2](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature2.png) |
 
 
 
-
-### Results
-The regression model’s accuracy was assessed using Mean Absolute Error (MAE) and Mean Squared Error (MSE) to gauge the average prediction error, while the R-squared (R²) and Adjusted R-squared values were used to quantify the model's fit to the data. The integration of location cluster features into the baseline model resulted in a marked performance improvement, as demonstrated by reduced MAE and MSE values and an enhanced R² value of 0.8, signifying that 80% of the variability in the dependent variable can now be explained by the model's independent variables.
-
-![Results](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/result.png)
