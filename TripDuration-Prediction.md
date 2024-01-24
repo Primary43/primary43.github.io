@@ -28,9 +28,10 @@ A synthesis of the findings was performed, focusing on patterns of pickups and d
 
 ### Task 3: Feature Transforming and Engineering Pipeline for Training and Testing Sets
 - 3.1 Implemented a data transformation pipeline: encompassing data filtering, logarithmic transformations for normalization, feature scaling for uniformity, and encoding of categorical variables to prepare for machine learning analysis.
+![after](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/after0.png)
 ![before](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/before.png)
-![after](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/after.png)
-
+![after](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/after.png "my caption")
+**Before-After Feature Transforming**
 
 - 3.2 Integrated cluster-based geographical features into the training and testing sets. This entailed combining pickup and drop-off coordinates, applying scaling to normalize location data, and employing KMeans clustering. An automated hyperparameter tuning process determined the optimal number of clusters, resulting in 29 distinct geographical segments based on pickup and drop-off points.
 
