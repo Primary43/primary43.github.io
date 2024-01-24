@@ -59,4 +59,4 @@ Deployed using Dash/Flask on Heroku for the capability of real-time prediction f
 [Visit the model prediction on Heroku](https://app-predict-ed883b6bdb3f.herokuapp.com/)
 
 
-![Prediction WebApp](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/prediction.png)
+![Prediction WebApp](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/prediction_gif.gif)
