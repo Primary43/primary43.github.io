@@ -37,7 +37,7 @@ Business Use Case:
 
 - 3.3 Explainable AI (XAI) was applied to provide a clear view of each feature's influence on a prediction, indicating whether it raises or lowers the likelihood of a particular outcome. This includes the utilization of ExplainableDashboard and Dalex libraries.
 
-  [![XAI Explainer](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/explainer.png)](https://app-db1-5d66c8de929e.herokuapp.com/db1/)
+  [![XAI Explainer](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/explainer_gif.gif)](https://app-db1-5d66c8de929e.herokuapp.com/db1/)
   
   ![XAI Arena](https://raw.githubusercontent.com/Primary43/kpmg-s-virtual-internship/main/asset/arena.png)
   
