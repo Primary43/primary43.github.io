@@ -26,7 +26,7 @@ A synthesis of the findings was performed, focusing on patterns of pickups and d
 
 ![Spatial Data Gif](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/gif.gif)
 
-### Task 3: Feature Transforming and Engineering Pipeline for Training and Testing Sets
+### Task 3: Feature Transforming and Engineering Pipeline for Training and Testing Sets [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/03_FeatureEngineering_Clustering.ipynb)
 - 3.1 Implemented a data transformation pipeline: encompassing data filtering, logarithmic transformations for normalization, feature scaling for uniformity, and encoding of categorical variables to prepare for machine learning analysis.
 ![after](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/after0.png)
 ![before](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/before.png)
