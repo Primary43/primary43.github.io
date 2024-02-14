@@ -17,21 +17,22 @@
 
 
 ---
-#### [Data Collector Bot, Analysis, and Visualization](/Disbot)
-![python](https://img.shields.io/badge/Python-blue) ![DiscordAPI](https://img.shields.io/badge/DiscordAPI-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-blue) ![Replit](https://img.shields.io/badge/Replit-blue) ![Flask](https://img.shields.io/badge/Flask-blue) ![NLPK](https://img.shields.io/badge/NLPK-blue) ![ChatBot](https://img.shields.io/badge/ChatBot-blue) 
-<img src="https://github.com/Primary43/Disbot-Scrape-Python-wrangling-MongoDB-database/blob/main/Dashboardarc.png?raw=true"/>
-
-
----
 #### [Deep Learning Computer Vision Model with GIS Application](/DLmodel-onGIS)
 ![python](https://img.shields.io/badge/Python-blue) ![ArcGIS](https://img.shields.io/badge/ArcGIS-blue) ![ComputerVision](https://img.shields.io/badge/Computer_Vision-blue) ![DeepLearning](https://img.shields.io/badge/Deep_Learning-blue) ![TransferLearning](https://img.shields.io/badge/Transfer_Learning-blue) ![ObjectDetection](https://img.shields.io/badge/Object_Detection-blue) ![PixelSegmentation](https://img.shields.io/badge/Pixel_Segmentation-blue) ![PointCloud](https://img.shields.io/badge/Point_Cloud_Classification-blue)
 <img src="https://github.com/Primary43/DLmodel-onGIS/blob/main/images/model_transfer.png?raw=true"/>
 <img src="https://github.com/Primary43/DLmodel-onGIS/blob/main/images/model_pretrained-post.png?raw=true"/>
 
 ---
-
 ### Data Analysis and Visualisation
 
+
+---
+#### [Data Collector Bot, Analysis, and Visualization](/Disbot)
+![python](https://img.shields.io/badge/Python-blue) ![DiscordAPI](https://img.shields.io/badge/DiscordAPI-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-blue) ![Replit](https://img.shields.io/badge/Replit-blue) ![Flask](https://img.shields.io/badge/Flask-blue) ![NLPK](https://img.shields.io/badge/NLPK-blue) ![ChatBot](https://img.shields.io/badge/ChatBot-blue) 
+<img src="https://github.com/Primary43/Disbot-Scrape-Python-wrangling-MongoDB-database/blob/main/Dashboardarc.png?raw=true"/>
+
+
+---
 #### [CustomerSegmentation Dashboard](https://github.com/Primary43/CustomerSegmentation-Plotly-Dash)
 ![python](https://img.shields.io/badge/Python-blue)  ![Principal Component Analysis](https://img.shields.io/badge/Principal_Component_Analysis-blue) ![K-Means](https://img.shields.io/badge/KMeans-blue) ![DBSCANS](https://img.shields.io/badge/DBSCANS-blue) ![DashPlotly](https://img.shields.io/badge/DashPlotly-blue) 
 <img src="https://github.com/Primary43/CustomerSegmentation-Plotly-Dash/blob/main/dashGif.gif?raw=true"/>
@@ -44,15 +45,7 @@
 
 ---
 
-### Cloud Platform
 
----
-
-### Big Data Analytics
-
-
-
----
 
 
 
