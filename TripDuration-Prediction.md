@@ -62,7 +62,8 @@ The exploration of MLflow logs indicates that incorporating geospatial features 
 ![mlflow_table](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_table.png)
 ![mlflow](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow.png)
 
-| ![feature](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature.png) | ![feature2](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature2.png) |
+![feature](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature.png) | ![feature2](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/mlflow_feature2.png) |
 
-
-
+### Final Dashboard
+[![PowerBI](https://raw.githubusercontent.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/main/asset/TAXI_dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZjY5MmEyNDItNGUwNC00NWU0LTlmYzUtN2JlY2Q4NmIwNjFkIiwidCI6ImZkYzBiMDZlLWJiZGYtNDkyNS1iZDBhLTg2ZDg0OTNiOGFmMSJ9&pageName=ReportSectiondff8d737b10203123e00)  
+[![PowerBI](https://img.shields.io/badge/PowerBI-View_on_PowerBI-yellow?logo=PowerBI)](https://app.powerbi.com/view?r=eyJrIjoiZjY5MmEyNDItNGUwNC00NWU0LTlmYzUtN2JlY2Q4NmIwNjFkIiwidCI6ImZkYzBiMDZlLWJiZGYtNDkyNS1iZDBhLTg2ZDg0OTNiOGFmMSJ9&pageName=ReportSectiondff8d737b10203123e00)  
