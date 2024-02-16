@@ -14,6 +14,7 @@
 ![python](https://img.shields.io/badge/Python-blue) ![pyspark pandas API](https://img.shields.io/badge/PySpark_Pandas-blue) ![ML FLow](https://img.shields.io/badge/ML_Flow-blue) ![Data Brick](https://img.shields.io/badge/Data_Brick-blue) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-blue) ![Temporal Analysis](https://img.shields.io/badge/Temporal_Analysis-blue) ![Spatial Analysis](https://img.shields.io/badge/Spatial_Analysis-blue) ![GeoPandas](https://img.shields.io/badge/GeoPandas-blue) ![XGboost](https://img.shields.io/badge/XGboost-blue) ![Regression](https://img.shields.io/badge/Linear_Regression-blue) ![Location-based Clustering Model](https://img.shields.io/badge/Location_based_Clustering_Model-blue)   
 <img src="https://github.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/asset/gif.gif?raw=true"/>
 <img src="https://github.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/asset/brick.png?raw=true"/>
+<img src="https://github.com/Primary43/TripDuration-Prediction-based-on-Locational-cluster/blob/main/asset/TAXI_dashboard.png?raw=true"/>
 
 
 ---
